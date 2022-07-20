@@ -1,0 +1,15 @@
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 128 - Leitura de contrato\Aula128_Enum\Aula128_Enum\bin\Debug\net6.0\Aula128_Enum.exe
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 128 - Leitura de contrato\Aula128_Enum\Aula128_Enum\bin\Debug\net6.0\Aula128_Enum.deps.json
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 128 - Leitura de contrato\Aula128_Enum\Aula128_Enum\bin\Debug\net6.0\Aula128_Enum.runtimeconfig.json
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 128 - Leitura de contrato\Aula128_Enum\Aula128_Enum\bin\Debug\net6.0\Aula128_Enum.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 128 - Leitura de contrato\Aula128_Enum\Aula128_Enum\bin\Debug\net6.0\Aula128_Enum.pdb
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 128 - Leitura de contrato\Aula128_Enum\Aula128_Enum\obj\Debug\net6.0\Aula128_Enum.csproj.AssemblyReference.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 128 - Leitura de contrato\Aula128_Enum\Aula128_Enum\obj\Debug\net6.0\Aula128_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 128 - Leitura de contrato\Aula128_Enum\Aula128_Enum\obj\Debug\net6.0\Aula128_Enum.AssemblyInfoInputs.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 128 - Leitura de contrato\Aula128_Enum\Aula128_Enum\obj\Debug\net6.0\Aula128_Enum.AssemblyInfo.cs
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 128 - Leitura de contrato\Aula128_Enum\Aula128_Enum\obj\Debug\net6.0\Aula128_Enum.csproj.CoreCompileInputs.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 128 - Leitura de contrato\Aula128_Enum\Aula128_Enum\obj\Debug\net6.0\Aula128_Enum.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 128 - Leitura de contrato\Aula128_Enum\Aula128_Enum\obj\Debug\net6.0\refint\Aula128_Enum.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 128 - Leitura de contrato\Aula128_Enum\Aula128_Enum\obj\Debug\net6.0\Aula128_Enum.pdb
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 128 - Leitura de contrato\Aula128_Enum\Aula128_Enum\obj\Debug\net6.0\Aula128_Enum.genruntimeconfig.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 128 - Leitura de contrato\Aula128_Enum\Aula128_Enum\obj\Debug\net6.0\ref\Aula128_Enum.dll

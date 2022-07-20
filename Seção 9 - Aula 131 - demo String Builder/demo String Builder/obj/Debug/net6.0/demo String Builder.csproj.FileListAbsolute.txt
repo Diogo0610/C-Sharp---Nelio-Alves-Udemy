@@ -1,0 +1,15 @@
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 131 - demo String Builder\demo String Builder\bin\Debug\net6.0\demo String Builder.exe
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 131 - demo String Builder\demo String Builder\bin\Debug\net6.0\demo String Builder.deps.json
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 131 - demo String Builder\demo String Builder\bin\Debug\net6.0\demo String Builder.runtimeconfig.json
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 131 - demo String Builder\demo String Builder\bin\Debug\net6.0\demo String Builder.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 131 - demo String Builder\demo String Builder\bin\Debug\net6.0\demo String Builder.pdb
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 131 - demo String Builder\demo String Builder\obj\Debug\net6.0\demo String Builder.csproj.AssemblyReference.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 131 - demo String Builder\demo String Builder\obj\Debug\net6.0\demo String Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 131 - demo String Builder\demo String Builder\obj\Debug\net6.0\demo String Builder.AssemblyInfoInputs.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 131 - demo String Builder\demo String Builder\obj\Debug\net6.0\demo String Builder.AssemblyInfo.cs
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 131 - demo String Builder\demo String Builder\obj\Debug\net6.0\demo String Builder.csproj.CoreCompileInputs.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 131 - demo String Builder\demo String Builder\obj\Debug\net6.0\demo String Builder.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 131 - demo String Builder\demo String Builder\obj\Debug\net6.0\refint\demo String Builder.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 131 - demo String Builder\demo String Builder\obj\Debug\net6.0\demo String Builder.pdb
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 131 - demo String Builder\demo String Builder\obj\Debug\net6.0\demo String Builder.genruntimeconfig.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 131 - demo String Builder\demo String Builder\obj\Debug\net6.0\ref\demo String Builder.dll

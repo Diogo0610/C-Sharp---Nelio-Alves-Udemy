@@ -1,0 +1,15 @@
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 132 - Order\Aula132_Order\bin\Debug\net6.0\Aula132_Order.exe
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 132 - Order\Aula132_Order\bin\Debug\net6.0\Aula132_Order.deps.json
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 132 - Order\Aula132_Order\bin\Debug\net6.0\Aula132_Order.runtimeconfig.json
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 132 - Order\Aula132_Order\bin\Debug\net6.0\Aula132_Order.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 132 - Order\Aula132_Order\bin\Debug\net6.0\Aula132_Order.pdb
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 132 - Order\Aula132_Order\obj\Debug\net6.0\Aula132_Order.csproj.AssemblyReference.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 132 - Order\Aula132_Order\obj\Debug\net6.0\Aula132_Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 132 - Order\Aula132_Order\obj\Debug\net6.0\Aula132_Order.AssemblyInfoInputs.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 132 - Order\Aula132_Order\obj\Debug\net6.0\Aula132_Order.AssemblyInfo.cs
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 132 - Order\Aula132_Order\obj\Debug\net6.0\Aula132_Order.csproj.CoreCompileInputs.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 132 - Order\Aula132_Order\obj\Debug\net6.0\Aula132_Order.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 132 - Order\Aula132_Order\obj\Debug\net6.0\refint\Aula132_Order.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 132 - Order\Aula132_Order\obj\Debug\net6.0\Aula132_Order.pdb
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 132 - Order\Aula132_Order\obj\Debug\net6.0\Aula132_Order.genruntimeconfig.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# Udemy\Seção 9 Enumerações e composição\Aula 132 - Order\Aula132_Order\obj\Debug\net6.0\ref\Aula132_Order.dll
