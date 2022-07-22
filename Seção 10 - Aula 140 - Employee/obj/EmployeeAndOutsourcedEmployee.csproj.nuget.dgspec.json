@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dbb20\\OneDrive\\Documentos\\Estudo\\Cursos\\C# - Nélio Alves - Prática\\Seção 10 - Aula 140 - Employee\\EmployeeAndOutsourcedEmployee\\EmployeeAndOutsourcedEmployee.csproj": {}
+    "C:\\Users\\dbb20\\OneDrive\\Documentos\\Estudo\\Cursos\\C# - Nélio Alves - Prática\\Seção 10 - Aula 140 - Employee\\EmployeeAndOutsourcedEmployee.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dbb20\\OneDrive\\Documentos\\Estudo\\Cursos\\C# - Nélio Alves - Prática\\Seção 10 - Aula 140 - Employee\\EmployeeAndOutsourcedEmployee\\EmployeeAndOutsourcedEmployee.csproj": {
+    "C:\\Users\\dbb20\\OneDrive\\Documentos\\Estudo\\Cursos\\C# - Nélio Alves - Prática\\Seção 10 - Aula 140 - Employee\\EmployeeAndOutsourcedEmployee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dbb20\\OneDrive\\Documentos\\Estudo\\Cursos\\C# - Nélio Alves - Prática\\Seção 10 - Aula 140 - Employee\\EmployeeAndOutsourcedEmployee\\EmployeeAndOutsourcedEmployee.csproj",
+        "projectUniqueName": "C:\\Users\\dbb20\\OneDrive\\Documentos\\Estudo\\Cursos\\C# - Nélio Alves - Prática\\Seção 10 - Aula 140 - Employee\\EmployeeAndOutsourcedEmployee.csproj",
         "projectName": "EmployeeAndOutsourcedEmployee",
-        "projectPath": "C:\\Users\\dbb20\\OneDrive\\Documentos\\Estudo\\Cursos\\C# - Nélio Alves - Prática\\Seção 10 - Aula 140 - Employee\\EmployeeAndOutsourcedEmployee\\EmployeeAndOutsourcedEmployee.csproj",
+        "projectPath": "C:\\Users\\dbb20\\OneDrive\\Documentos\\Estudo\\Cursos\\C# - Nélio Alves - Prática\\Seção 10 - Aula 140 - Employee\\EmployeeAndOutsourcedEmployee.csproj",
         "packagesPath": "C:\\Users\\dbb20\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dbb20\\OneDrive\\Documentos\\Estudo\\Cursos\\C# - Nélio Alves - Prática\\Seção 10 - Aula 140 - Employee\\EmployeeAndOutsourcedEmployee\\obj\\",
+        "outputPath": "C:\\Users\\dbb20\\OneDrive\\Documentos\\Estudo\\Cursos\\C# - Nélio Alves - Prática\\Seção 10 - Aula 140 - Employee\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dbb20\\AppData\\Roaming\\NuGet\\NuGet.Config",

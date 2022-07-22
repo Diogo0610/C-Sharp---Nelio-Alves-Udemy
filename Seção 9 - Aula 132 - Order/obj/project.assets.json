@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dbb20\\OneDrive\\Documentos\\Estudo\\Cursos\\C# Udemy\\Seção 9 Enumerações e composição\\Aula 132 - Order\\Aula132_Order\\Aula132_Order.csproj",
+      "projectUniqueName": "C:\\Users\\dbb20\\OneDrive\\Documentos\\Estudo\\Cursos\\C# - Nélio Alves - Prática\\Seção 9 - Aula 132 - Order\\Aula132_Order.csproj",
       "projectName": "Aula132_Order",
-      "projectPath": "C:\\Users\\dbb20\\OneDrive\\Documentos\\Estudo\\Cursos\\C# Udemy\\Seção 9 Enumerações e composição\\Aula 132 - Order\\Aula132_Order\\Aula132_Order.csproj",
+      "projectPath": "C:\\Users\\dbb20\\OneDrive\\Documentos\\Estudo\\Cursos\\C# - Nélio Alves - Prática\\Seção 9 - Aula 132 - Order\\Aula132_Order.csproj",
       "packagesPath": "C:\\Users\\dbb20\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dbb20\\OneDrive\\Documentos\\Estudo\\Cursos\\C# Udemy\\Seção 9 Enumerações e composição\\Aula 132 - Order\\Aula132_Order\\obj\\",
+      "outputPath": "C:\\Users\\dbb20\\OneDrive\\Documentos\\Estudo\\Cursos\\C# - Nélio Alves - Prática\\Seção 9 - Aula 132 - Order\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dbb20\\AppData\\Roaming\\NuGet\\NuGet.Config",
