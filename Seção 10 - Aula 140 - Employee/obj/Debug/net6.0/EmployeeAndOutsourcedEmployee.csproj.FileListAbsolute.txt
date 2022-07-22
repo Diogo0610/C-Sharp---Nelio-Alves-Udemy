@@ -1,0 +1,15 @@
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 140 - Employee\bin\Debug\net6.0\EmployeeAndOutsourcedEmployee.exe
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 140 - Employee\bin\Debug\net6.0\EmployeeAndOutsourcedEmployee.deps.json
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 140 - Employee\bin\Debug\net6.0\EmployeeAndOutsourcedEmployee.runtimeconfig.json
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 140 - Employee\bin\Debug\net6.0\EmployeeAndOutsourcedEmployee.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 140 - Employee\bin\Debug\net6.0\EmployeeAndOutsourcedEmployee.pdb
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 140 - Employee\obj\Debug\net6.0\EmployeeAndOutsourcedEmployee.csproj.AssemblyReference.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 140 - Employee\obj\Debug\net6.0\EmployeeAndOutsourcedEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 140 - Employee\obj\Debug\net6.0\EmployeeAndOutsourcedEmployee.AssemblyInfoInputs.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 140 - Employee\obj\Debug\net6.0\EmployeeAndOutsourcedEmployee.AssemblyInfo.cs
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 140 - Employee\obj\Debug\net6.0\EmployeeAndOutsourcedEmployee.csproj.CoreCompileInputs.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 140 - Employee\obj\Debug\net6.0\EmployeeAndOutsourcedEmployee.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 140 - Employee\obj\Debug\net6.0\refint\EmployeeAndOutsourcedEmployee.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 140 - Employee\obj\Debug\net6.0\EmployeeAndOutsourcedEmployee.pdb
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 140 - Employee\obj\Debug\net6.0\EmployeeAndOutsourcedEmployee.genruntimeconfig.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 140 - Employee\obj\Debug\net6.0\ref\EmployeeAndOutsourcedEmployee.dll
