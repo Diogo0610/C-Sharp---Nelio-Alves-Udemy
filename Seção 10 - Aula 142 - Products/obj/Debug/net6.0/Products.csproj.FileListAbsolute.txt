@@ -1,0 +1,15 @@
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 142 - Products\Products\bin\Debug\net6.0\Products.exe
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 142 - Products\Products\bin\Debug\net6.0\Products.deps.json
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 142 - Products\Products\bin\Debug\net6.0\Products.runtimeconfig.json
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 142 - Products\Products\bin\Debug\net6.0\Products.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 142 - Products\Products\bin\Debug\net6.0\Products.pdb
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 142 - Products\Products\obj\Debug\net6.0\Products.csproj.AssemblyReference.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 142 - Products\Products\obj\Debug\net6.0\Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 142 - Products\Products\obj\Debug\net6.0\Products.AssemblyInfoInputs.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 142 - Products\Products\obj\Debug\net6.0\Products.AssemblyInfo.cs
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 142 - Products\Products\obj\Debug\net6.0\Products.csproj.CoreCompileInputs.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 142 - Products\Products\obj\Debug\net6.0\Products.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 142 - Products\Products\obj\Debug\net6.0\refint\Products.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 142 - Products\Products\obj\Debug\net6.0\Products.pdb
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 142 - Products\Products\obj\Debug\net6.0\Products.genruntimeconfig.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 142 - Products\Products\obj\Debug\net6.0\ref\Products.dll

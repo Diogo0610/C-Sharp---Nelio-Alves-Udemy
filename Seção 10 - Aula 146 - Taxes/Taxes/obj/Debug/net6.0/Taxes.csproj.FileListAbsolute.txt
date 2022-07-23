@@ -1,0 +1,15 @@
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 146 - Taxes\Taxes\bin\Debug\net6.0\Taxes.exe
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 146 - Taxes\Taxes\bin\Debug\net6.0\Taxes.deps.json
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 146 - Taxes\Taxes\bin\Debug\net6.0\Taxes.runtimeconfig.json
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 146 - Taxes\Taxes\bin\Debug\net6.0\Taxes.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 146 - Taxes\Taxes\bin\Debug\net6.0\Taxes.pdb
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 146 - Taxes\Taxes\obj\Debug\net6.0\Taxes.csproj.AssemblyReference.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 146 - Taxes\Taxes\obj\Debug\net6.0\Taxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 146 - Taxes\Taxes\obj\Debug\net6.0\Taxes.AssemblyInfoInputs.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 146 - Taxes\Taxes\obj\Debug\net6.0\Taxes.AssemblyInfo.cs
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 146 - Taxes\Taxes\obj\Debug\net6.0\Taxes.csproj.CoreCompileInputs.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 146 - Taxes\Taxes\obj\Debug\net6.0\Taxes.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 146 - Taxes\Taxes\obj\Debug\net6.0\refint\Taxes.dll
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 146 - Taxes\Taxes\obj\Debug\net6.0\Taxes.pdb
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 146 - Taxes\Taxes\obj\Debug\net6.0\Taxes.genruntimeconfig.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 10 - Aula 146 - Taxes\Taxes\obj\Debug\net6.0\ref\Taxes.dll
