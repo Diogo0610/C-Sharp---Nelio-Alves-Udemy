@@ -15,24 +15,35 @@ namespace Chess
 
                 while (!match.Finished)
                 {
-                    Console.Clear();
-                    Screen.ShowBoard(match.board);
+                    try
+                    {
+                        Console.Clear();
+                        Screen.PrintBoard(match);
 
-                    Console.WriteLine();
-                    Console.Write("Origin: ");
-                    Position origin = Screen.ReadPosition().toPosition();
+                        Console.WriteLine();
+                        Console.Write("Origin: ");
+                        Position origin = Screen.ReadPosition().toPosition();
+                        match.ValidateOriginPosition(origin);
 
-                    bool[,] possibleMoves = match.board.Piece(origin).PossibleMoves();
+                        bool[,] possibleMoves = match.board.Piece(origin).PossibleMoves();
 
-                    Console.Clear();
-                    Screen.ShowBoard(match.board, possibleMoves);
+                        Console.Clear();
+                        Screen.ShowBoard(match.board, possibleMoves);
 
 
-                    Console.WriteLine();
-                    Console.Write("Destination: ");
-                    Position destination = Screen.ReadPosition().toPosition();
+                        Console.WriteLine();
+                        Console.Write("Destination: ");
+                        Position destination = Screen.ReadPosition().toPosition();
+                        match.ValidateDestinationPosition(origin, destination);
 
-                    match.PieceMovement(origin, destination);
+                        match.MakeMove(origin, destination);
+                    }
+                    catch (BoardException e)
+                    {
+                        Console.Write(e.Message);
+                        Console.ReadLine();
+                    }
+                    
                 }
 
                 Screen.ShowBoard(match.board);

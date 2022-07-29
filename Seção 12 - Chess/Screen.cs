@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using BoardEntities;
 using ChessPieces;
 
@@ -6,6 +7,41 @@ namespace Chess
 {
     internal class Screen
     {
+
+        public static void PrintBoard(ChessMatch match)
+        {
+            ShowBoard(match.board);
+            Console.WriteLine();
+            PrintCatchedPieces(match);
+            Console.WriteLine();
+            Console.WriteLine("Turn: " + match.turn);
+            Console.WriteLine("Waiting for play: " + match.currentPlayer);
+        }
+
+        public static void PrintCatchedPieces(ChessMatch match)
+        {
+            Console.WriteLine("Captured Pieces: ");
+            Console.Write("White: ");
+            PrintGroup(match.CatchedPieces(Color.White));
+            Console.WriteLine();
+            Console.Write("Black: ");
+            ConsoleColor temp = Console.ForegroundColor;
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            PrintGroup(match.CatchedPieces(Color.Black));
+            Console.ForegroundColor = temp;
+            Console.WriteLine();
+        }
+
+        public static void PrintGroup(HashSet<Piece> group)
+        {
+            Console.Write("[");
+            foreach (Piece x in group)
+            {
+                Console.Write(x + " ");
+            }
+            Console.Write("]");
+        }
+
         public static void ShowBoard(Board board)
         {
             for(int i = 0; i < board.Lines; i++)
@@ -73,7 +109,7 @@ namespace Chess
                         Console.ForegroundColor = aux;
                         break;
                     case Color.Black:
-                        Console.ForegroundColor = ConsoleColor.Gray;
+                        Console.ForegroundColor = ConsoleColor.Yellow;
                         Console.Write(piece);
                         Console.ForegroundColor = aux;
                         break;

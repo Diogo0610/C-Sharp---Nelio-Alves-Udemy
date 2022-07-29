@@ -31,5 +31,24 @@ namespace BoardEntities
         {
             NumMovements++;
         }
+
+        public bool HasPossibleMoves()
+        {
+            bool[,] mat = PossibleMoves();
+            for(int i = 0; i < Board.Lines; i++)
+            {
+                for(int j = 0; j < Board.Columns; j++)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        public bool CanMoveFor(Position pos)
+        {
+            return PossibleMoves()[pos.Line, pos.Column];
+        }
+
     }
 }
