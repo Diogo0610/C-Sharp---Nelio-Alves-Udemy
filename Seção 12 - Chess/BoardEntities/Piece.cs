@@ -24,5 +24,10 @@ namespace BoardEntities
             Color = color;
             NumMovements = 0;
         }
+
+        public void IncreaseNumMovements()
+        {
+            NumMovements++;
+        }
     }
 }
