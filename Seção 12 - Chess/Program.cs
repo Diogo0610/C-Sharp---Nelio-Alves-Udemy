@@ -21,6 +21,14 @@ namespace Chess
                     Console.WriteLine();
                     Console.Write("Origin: ");
                     Position origin = Screen.ReadPosition().toPosition();
+
+                    bool[,] possibleMoves = match.board.Piece(origin).PossibleMoves();
+
+                    Console.Clear();
+                    Screen.ShowBoard(match.board, possibleMoves);
+
+
+                    Console.WriteLine();
                     Console.Write("Destination: ");
                     Position destination = Screen.ReadPosition().toPosition();
 

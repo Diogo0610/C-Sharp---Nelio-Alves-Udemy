@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BoardEntities
 {
-    internal class Piece
+    abstract class Piece
     {
         public Position Position { get; set; }
         public Color Color { get; protected set; }
@@ -24,6 +24,8 @@ namespace BoardEntities
             Color = color;
             NumMovements = 0;
         }
+
+        public abstract bool[,] PossibleMoves();
 
         public void IncreaseNumMovements()
         {
