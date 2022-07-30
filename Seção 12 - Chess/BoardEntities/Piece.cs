@@ -32,6 +32,11 @@ namespace BoardEntities
             NumMovements++;
         }
 
+        public void DecreaseNumMovements()
+        {
+            NumMovements--;
+        }
+
         public bool HasPossibleMoves()
         {
             bool[,] mat = PossibleMoves();
