@@ -43,9 +43,9 @@ namespace Chess
                         Console.Write(e.Message);
                         Console.ReadLine();
                     }
-                    
-                }
 
+                }
+                Console.Clear();
                 Screen.ShowBoard(match.board);
             }
             catch (BoardException e)
