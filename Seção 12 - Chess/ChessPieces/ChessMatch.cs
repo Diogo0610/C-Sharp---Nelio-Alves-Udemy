@@ -140,6 +140,20 @@ namespace ChessPieces
                 throw new BoardException("You can't put yourself in check!");
             }
 
+            Piece p = board.Piece(destination);
+
+            if (p is Pawn)
+            {
+                if (p.Color == Color.White && destination.Line ==0 || p.Color == Color.Black && destination.Line == 7)
+                {
+                    p = board.RemovePiece(destination);
+                    pieces.Remove(p);
+                    Piece queen = new Queen(board, p.Color);
+                    board.PutPiece(queen, destination);
+                    pieces.Add(queen);
+                }
+            }
+
             if (Check(Enemy(currentPlayer)))
             {
                 check = true;
@@ -159,9 +173,9 @@ namespace ChessPieces
                 ChangePlayer();
             }
 
-            Piece p = board.Piece(destination);
+            
             //#En passant
-            if(p is Pawn && (destination.Line == origin.Line - 2 || destination.Line == origin.Line + 2))
+            if (p is Pawn && (destination.Line == origin.Line - 2 || destination.Line == origin.Line + 2))
             {
                 vunerableEnPassant = p;
             }
