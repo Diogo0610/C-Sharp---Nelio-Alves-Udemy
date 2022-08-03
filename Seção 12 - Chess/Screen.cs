@@ -10,7 +10,7 @@ namespace Chess
 
         public static void PrintBoard(ChessMatch match)
         {
-            ShowBoard(match.board);
+            CreateBoard(match.board);
             Console.WriteLine();
             PrintCatchedPieces(match);
             Console.WriteLine();
@@ -55,7 +55,7 @@ namespace Chess
             Console.Write("]");
         }
 
-        public static void ShowBoard(Board board)
+        public static void CreateBoard(Board board)
         {
             for(int i = 0; i < board.Lines; i++)
             {
@@ -69,7 +69,7 @@ namespace Chess
             Console.WriteLine("  a b c d e f g h");
         }
 
-        public static void ShowBoard(Board board, bool[,] possibleMoves)
+        public static void CreateBoard(Board board, bool[,] possibleMoves)
         {
             ConsoleColor originalBackground = Console.BackgroundColor;
             ConsoleColor newBackground = ConsoleColor.DarkGray;

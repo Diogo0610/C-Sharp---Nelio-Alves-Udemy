@@ -14,6 +14,7 @@ namespace Chess
                 " followed by the LINE NUMBER (1 to 8).");
             Console.WriteLine("The game follows the classic chess rules, " +
                 "like movements and turns. The player also controls both sides.");
+            Console.WriteLine("In case of error, press any key to continue.");
             Console.WriteLine();
             Console.WriteLine("Press any key to start the game...");
             Console.ReadLine();
@@ -37,7 +38,7 @@ namespace Chess
                         bool[,] possibleMoves = match.board.Piece(origin).PossibleMoves();
 
                         Console.Clear();
-                        Screen.ShowBoard(match.board, possibleMoves);
+                        Screen.CreateBoard(match.board, possibleMoves);
 
 
                         Console.WriteLine();
@@ -54,12 +55,13 @@ namespace Chess
                     }
                     catch (Exception e)
                     {
-                        Console.Write("Error");
+                        Console.Write("Invalid Position!");
+                        Console.ReadLine();
                     }
 
                 }
                 Console.Clear();
-                Screen.ShowBoard(match.board);
+                Screen.CreateBoard(match.board);
             }
             catch (BoardException e)
             {
