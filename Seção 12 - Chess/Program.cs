@@ -43,6 +43,10 @@ namespace Chess
                         Console.Write(e.Message);
                         Console.ReadLine();
                     }
+                    catch (Exception e)
+                    {
+                        Console.Write("Error");
+                    }
 
                 }
                 Console.Clear();

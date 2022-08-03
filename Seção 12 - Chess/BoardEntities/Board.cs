@@ -26,7 +26,7 @@ namespace BoardEntities
 
         public Piece Piece(Position pos)
         {
-            return _pieces[pos.Line, pos.Column];
+                return _pieces[pos.Line, pos.Column];
         }
 
         public bool HasPiece(Position pos)

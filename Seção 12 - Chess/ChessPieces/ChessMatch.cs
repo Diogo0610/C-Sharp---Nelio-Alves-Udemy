@@ -199,6 +199,10 @@ namespace ChessPieces
             {
                 throw new BoardException("There is no possible move for this piece!");
             }
+            if (pos.Line > board.Lines || pos.Column > board.Columns)
+            {
+                throw new BoardException("There is no possible move for this piece!");
+            }
         }
 
         public void ValidateDestinationPosition(Position origin, Position destination)
