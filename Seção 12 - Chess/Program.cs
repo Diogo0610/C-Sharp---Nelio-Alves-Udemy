@@ -9,6 +9,15 @@ namespace Chess
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("GAME RULES:");
+            Console.WriteLine("The only input allowed is the letter of the COLUMN in LOWERCASE LETTER (a to h)," +
+                " followed by the LINE NUMBER (1 to 8).");
+            Console.WriteLine("The game follows the classic chess rules, " +
+                "like movements and turns. The player also controls both sides.");
+            Console.WriteLine();
+            Console.WriteLine("Press any key to start the game...");
+            Console.ReadLine();
+
             try
             {
                 ChessMatch match = new ChessMatch();
